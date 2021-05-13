@@ -1,0 +1,39 @@
+<div class="row">
+  <div class="card-auto">
+    <h2 style="color: white;">Welcome, {{name}}!</h2>
+  </div>
+</div>
+
+
+  <div class="card" style="width: 22rem;">
+  <h5 class="card-header">View Your Recent Trips</h5>
+  <ol class="list-group list-group-numbered">
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Cras justo odio</li>
+</ol>
+
+  </div>
+  </div>
+</div>
+  {{#if projects.length}}
+  <div class="col-md-6 project-list">
+    <h3>Current Projects:</h3>
+
+    {{#each projects as |project|}}
+    <div class="row mb-2">
+      <div class="col-md-8">
+        <h4><a href="/project/{{project.id}}">{{project.name}}</a></h4>
+      </div>
+      <div class="col-md-4">
+        <button class="btn btn-sm btn-danger" data-id="{{project.id}}">DELETE</button>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+  {{/if}}
+</div>
+
+<script src="./js/profile.js"></script>
