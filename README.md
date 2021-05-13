@@ -21,7 +21,7 @@ This page gives the viewers an image and more insight as to who I am, where I am
 * [Jamie Forrester's Github](https://github.com/Forresterjamie01 "Jamie Forrester")
 
 
-[![Javascript badge](https://img.shields.io/badge/Javascript-100%25-yellow)](https://shields.io/)
+[![Html badge](https://img.shields.io/badge/Html-100%25-red)](https://shields.io/)
 
 
 
