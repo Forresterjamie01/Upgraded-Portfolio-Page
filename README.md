@@ -4,15 +4,10 @@
 ![How-It-Works] ()
 
 ## Technologies Used
-*    bcrypt
-*    connect-session-sequelize
-*    dotenv
-*    express
-*    express-handlebars
-*    express-session
-*    mysql2
-*    sequelize
-*    bootstrap
+* html
+* css
+* js
+
 ## Summary
 Created a new Portfolio Page for employers to view my resume, contact me and learn more about me.
 
