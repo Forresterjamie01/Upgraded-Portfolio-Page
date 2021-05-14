@@ -9,7 +9,7 @@
 * js
 
 ## Summary
-Created a new Portfolio Page for employers to view my resume, contact me and learn more about me.
+Created a new third Portfolio Page for employers to view my resume, contact me and learn more about me.
 
 This page contains an About me, Contact, Resume and Projects section.
 
