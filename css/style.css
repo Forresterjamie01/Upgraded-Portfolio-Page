@@ -1,8 +1,12 @@
 
 body {
-  background-image: url("0B799BE9-509D-41ED-BD3A-C48771F63C7C.jpg");
+  background-image: url('0B799BE9-509D-41ED-BD3A-C48771F63C7C.jpg');
+  -webkit-background-size: cover;
+  background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+}
 
- }
 
  #button {
   width: 6em;
