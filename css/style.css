@@ -1,14 +1,22 @@
 
-.body {
-  background-image: url('0B799BE9-509D-41ED-BD3A-C48771F63C7C.jpg');
+body {
+  -webkit-background-size: cover;
+  background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+}
+body.home {
+  background: url(/images/Bg.jpg);
   -webkit-background-size: cover;
   background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
 }
 
+ h1.display-5 {
+   color: green
+ }
 
- 
 
 
 .b-example-divider {
