@@ -1,5 +1,5 @@
 
-body {
+.body {
   background-image: url('0B799BE9-509D-41ED-BD3A-C48771F63C7C.jpg');
   -webkit-background-size: cover;
   background-size:cover;
@@ -8,21 +8,13 @@ body {
 }
 
 
- #button {
-  width: 6em;
-  border: 2px solid green;
-  background: #ffe;
-  border-radius: 5px;
-}
-a {
-  display: block;
-  width: 100%;
-  line-height: 2em;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 5px;
-}
-a:hover {
-  color: red;
-  background: #eff;
+ 
+
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
 }
