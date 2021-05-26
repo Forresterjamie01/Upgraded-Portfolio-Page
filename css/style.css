@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
 
 body {
   -webkit-background-size: cover;
@@ -5,38 +6,28 @@ body {
   -moz-background-size:cover;
   -o-background-size:cover;
 }
-body.home {
+/* body{
   background: url(/images/Bg.jpg);
   -webkit-background-size: cover;
   background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
+} */
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
 }
 
- h1.display-5 {
-   color:darkolivegreen;
-  text-decoration: none;
-  text-transform: uppercase
- }
-
-
-
-a.button {
-  background-color: black;
-  color: Orange;
-  padding: 1em 1em;
-  text-decoration: none;
-  text-transform: uppercase
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
 }
 
-a.button:hover {
-  background-color: #555;
-}
-
-a.button:active {
-  box-shadow: none;
-  top: 5px;
-}
 
 .b-example-divider {
   height: 3rem;
