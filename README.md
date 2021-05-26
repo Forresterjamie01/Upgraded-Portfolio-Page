@@ -24,6 +24,8 @@ This page gives the viewers an image and more insight as to who I am, where I am
 
 [![Html badge](https://img.shields.io/badge/Html-100%25-red)](https://shields.io/)
 
+[![CSS badge](https://img.shields.io/badge/Html-3.9%25-purple)](https://shields.io/)
+
 
 
 
