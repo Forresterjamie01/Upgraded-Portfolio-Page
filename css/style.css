@@ -14,10 +14,29 @@ body.home {
 }
 
  h1.display-5 {
-   color: black
+   color:darkolivegreen;
+  text-decoration: none;
+  text-transform: uppercase
  }
 
 
+
+a.button {
+  background-color: black;
+  color: Orange;
+  padding: 1em 1em;
+  text-decoration: none;
+  text-transform: uppercase
+}
+
+a.button:hover {
+  background-color: #555;
+}
+
+a.button:active {
+  box-shadow: none;
+  top: 5px;
+}
 
 .b-example-divider {
   height: 3rem;
