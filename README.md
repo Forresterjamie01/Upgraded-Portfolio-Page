@@ -6,12 +6,13 @@
 ## Technologies Used
 * html
 * css
-* js
 
 ## Summary
 Created a new third Portfolio Page for employers to view my resume, contact me and learn more about me.
 
 This page contains an About me, Contact, Resume and Projects section.
+
+This page is more simple and sleek design to the others I have created in the past. 
 
 This page gives the viewers an image and more insight as to who I am, where I am from and my current experiences with web development. 
 ![Code-Screenshot]()
