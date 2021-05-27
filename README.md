@@ -23,9 +23,9 @@ This Portfolio Page gives users a more professional view of my credentials and c
 * [Jamie Forrester's Github](https://github.com/Forresterjamie01 "Jamie Forrester")
 
 
-[![Html badge](https://img.shields.io/badge/Html-100%25-red)](https://shields.io/)
+[![Html badge](https://img.shields.io/badge/Html-96.6%25-red)](https://shields.io/)
 
-[![CSS badge](https://img.shields.io/badge/Html-3.9%25-purple)](https://shields.io/)
+[![CSS badge](https://img.shields.io/badge/Html-3.4%25-purple)](https://shields.io/)
 
 
 
